@@ -1,0 +1,6 @@
+-Para saber mais sobre o Markdown: markdownguide.org/basic-syntax/
+-Copiar um link no Git Bash: Shift + Insert
+-Para adicionar todos os arquivos com suas alterações "git add ."
+-Para adicionar os arquivos no GitHub
+	-git commit -m "mensagem"
+	-git push origin

@@ -1,2 +1,0 @@
--Para saber mais sobre o Markdown: markdownguide.org/basic-syntax/
--Copiar um link no Git Bash: Shift + Insert
